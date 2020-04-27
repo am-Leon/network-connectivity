@@ -20,7 +20,7 @@ allprojects {
 
 ```groovy
 
-implementation 'com.github.am-Leon:network-connectivity:1.0.0'
+    implementation 'com.github.am-Leon:network-connectivity:v1.0.0'
 
 ```
 
